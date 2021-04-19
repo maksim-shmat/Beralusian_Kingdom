@@ -220,5 +220,6 @@ tags
 
 ### Exclude local.env with pass and other
 local.env
+local_settings.py
 # End
 
