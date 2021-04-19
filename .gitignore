@@ -219,7 +219,7 @@ tags
 [._]*.un~
 
 ### Exclude local.env with pass and other
-local.env
+virt3.env
 local_settings.py
 # End
 
